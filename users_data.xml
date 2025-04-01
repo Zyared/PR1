@@ -1,0 +1,1 @@
+<users><user><name>пользователь1</name><password>123</password><role>Администратор</role><resources><resource name="ресурс2">Изменение</resource><resource name="ресурс1">Запись</resource></resources></user><user><name>пользователь2</name><password>123</password><role>Пользователь</role><resources><resource name="ресурс1">Чтение</resource></resources></user></users>
